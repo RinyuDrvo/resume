@@ -20,22 +20,98 @@
 ## 株式会社テックアット
 起業当初から参画し、会社ホームページの作成から、初の自社サービスの作成に携わりました。
 
-### ウェブサイト構築
+### ホームページ作成
 #### 期間
 2019/9 ~ 2020/1
 
-### 技術スタック
+#### 技術スタック
+- Frontend
+  - HTML
+  - CSS
+  - Bootstrap4
+- Backend
+  - PHP(メールフォーム)
+- バージョン管理
+  - Git
 
-- HTML
-- CSS
-- Bootstrap4
-- PHP
-  (問い合わせフォーム)
-
-#### その他
-- Git
 
 ### 健康管理・診断サービスの新規開発
+
+#### 期間
+2019/11 ~ 2020/1
+
+#### 技術スタック
+- DevOps
+  - Docker
+- DB
+  - MySQL
+- Frontend
+  - HTML
+  - CSS
+  - Bootstrap
+- Backend
+  - Laravel
+- バージョン管理
+  - Git
+
+### マニュアル管理システム開発
+
+#### 期間
+2020/5 ~ 2021/3
+
+#### 技術スタック
+- DevOps
+  - Docker
+- Infrastructure
+  - AWS
+- DB
+  - MySQL
+- Frontend
+  - Vue.js
+  - TypeScript
+- Backend
+  - Ruby on Rails
+- バージョン管理
+  - Git
+
+### ビジュアルマーケティングプラットフォーム開発
+
+#### 期間
+2021/4 ~ 2021/8
+
+#### 技術スタック
+- Infrastructure
+  - Azure
+- DB
+  - Cosmos DB
+  - SQL Database
+- Frontend
+  - Vue.js
+  - Nuxt.js
+  - TypeScript
+- Backend
+  - C#
+- バージョン管理
+  - Git
+
+### 労働保険事務組合システム開発
+
+#### 期間
+2021/9 ~ 2022/2
+
+#### 技術スタック
+- Infrastructure
+  - AWS
+- DB
+  - MySQL
+- Frontend
+  - jQuery
+  - Vue.js
+- Backend
+  - Laravel
+- バージョン管理
+  - Git
+
 # できること
 
 # 希望内容
